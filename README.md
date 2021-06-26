@@ -1,2 +1,1 @@
-# code-20210626-sarveshwaran
-BMI Calculator
+Body mass index (BMI) is a measure of body fat based on height and weight. This package help us to calculate BMI along with BMI Category and Health risk
